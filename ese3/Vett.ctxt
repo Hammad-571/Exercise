@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vett
+comment1.params=r\ i
+comment1.target=Vett(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Complex\r\n
+comment2.params=r
+comment2.target=void\ setX(double)
+comment3.params=r
+comment3.target=void\ setY(double)
+comment4.params=
+comment4.target=double\ getDis()
+numComments=5
